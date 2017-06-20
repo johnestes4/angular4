@@ -11,6 +11,6 @@ import { Component } from '@angular/core';
   `]
 })
 export class AppComponent {
-  title = 'New Donk City';
+  title = 'the Angular 4 Testing Ground';
   name = '';
 }
