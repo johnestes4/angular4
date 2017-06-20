@@ -1,5 +1,7 @@
 # Angular4
 
+This is an Angular 4 project built off of a YouTube tutorial (https://www.youtube.com/watch?v=htPYk6QxacQ) that maintains aspects of the default Angular 4 landing page to show off multiple interactive elements of Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
 ## Development server
